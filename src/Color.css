@@ -1,0 +1,10 @@
+.Box {
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+.Boxes {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
