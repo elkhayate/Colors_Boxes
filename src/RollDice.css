@@ -1,0 +1,38 @@
+.Roll-Dice {
+    display: flex;
+    justify-content: center;
+    
+}
+.RollDice {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    text-align: center;
+    height: auto;
+    width: 350px;
+    border-radius: 15px;
+}
+button {
+    background-color: black;
+    color: white;
+    width: 7rem;
+    border : 0;
+    height: 35px;
+    border-radius: 12px;
+    margin: auto;
+    
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    padding: 15px;
+    margin: auto;
+
+}
+button:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
