@@ -6,7 +6,7 @@ export default class Colors_container extends Component {
         super(props)
     
         this.state = {
-             Number_boxes : Array.from({length : 21})
+             Number_boxes : Array.from({length : 60})
         }
     }
     
